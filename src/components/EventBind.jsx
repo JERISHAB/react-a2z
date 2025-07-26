@@ -32,8 +32,6 @@ class EventBind extends Component {
 
 export default EventBind;
 
-
-
 // bind in three ways 
 // bind in constructor
 // bind in inline 
